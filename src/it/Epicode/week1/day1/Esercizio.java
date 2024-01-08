@@ -15,6 +15,14 @@ public class Esercizio {
         double risultatoPerimetro = perimetroRettangolo(lato1, lato2);
 
         System.out.println("Il perimetro del rettangolo è: " + risultatoPerimetro);
+
+        System.out.println("Inserisci un numero");
+
+        int numeroVerifica = scanner.nextInt();
+
+        int risultatoVerifica = pariDispari(numeroVerifica);
+
+        System.out.println("Il risultato della verifica è: " + risultatoVerifica);
     }
     public static double perimetroRettangolo(double x, double y) {
 
@@ -22,4 +30,12 @@ public class Esercizio {
 
         return perimetro;
     }
+
+    public static int pariDispari(int x) {
+
+         x = x%2;
+
+        return x;
+    }
+
 }

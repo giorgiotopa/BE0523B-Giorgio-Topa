@@ -19,8 +19,6 @@ public class PrimaClasse {
 
         String parola = scanner.nextLine();
 
-
-
         System.out.println(parola);
     }
 }

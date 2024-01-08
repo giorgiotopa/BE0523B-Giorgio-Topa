@@ -11,11 +11,11 @@ public class ProvaArray {
         for (int i = 0; i < numeri.length; i++) {
             System.out.println("Dammi un numero");
             numeri[i] = scanner.nextInt();
-        };
+        }
 
         for (int i = 0; i < numeri.length; i++) {
             System.out.println(numeri[i]);
-        };
+        }
 
 
 

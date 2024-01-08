@@ -23,6 +23,21 @@ public class Esercizio {
         int risultatoVerifica = pariDispari(numeroVerifica);
 
         System.out.println("Il risultato della verifica è: " + risultatoVerifica);
+
+
+        System.out.println("Inserisci la dimensione di un lato del triangolo");
+        double latoTriangolo1 = scanner.nextDouble();
+
+        System.out.println("Inserisci la dimensione di un altro lato del triangolo");
+        double latoTriangolo2 = scanner.nextDouble();
+
+        System.out.println("Inserisci la dimensione di un altro lato del triangolo");
+        double latoTriangolo3 = scanner.nextDouble();
+
+        double areaTriangolo = areaTriangolo(latoTriangolo1,latoTriangolo2,latoTriangolo3);
+
+        System.out.println("L'area del triangolo è: " + areaTriangolo);
+
     }
     public static double perimetroRettangolo(double x, double y) {
 
@@ -36,6 +51,15 @@ public class Esercizio {
          x = x%2;
 
         return x;
+    }
+
+    public static double areaTriangolo(double x, double y, double z) {
+
+        double semiperimetro = (x + y + z) / 2;
+
+        double area = Math.sqrt(semiperimetro * (semiperimetro - x) * (semiperimetro - y) * (semiperimetro - z));
+
+        return area;
     }
 
 }

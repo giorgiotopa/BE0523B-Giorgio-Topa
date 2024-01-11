@@ -63,8 +63,8 @@ public class Dipendente {
     }
 
     //Altri Metodi
-    public void stampaDatiDipendente(Dipendente dipendente){
-        System.out.println("Matricola: " + dipendente.matricola + "\nStipendio: " + dipendente.stipendio + "\nImporto Orario Straordinario: " + dipendente.importoOrarioStraordinario + "\nLivello: " + dipendente.livello + "\nDipartimento: " + dipendente.dipartimento);
+    public void stampaDatiDipendente(){
+        System.out.println("Matricola: " + matricola + "\nStipendio: " + stipendio + "\nImporto Orario Straordinario: " + importoOrarioStraordinario + "\nLivello: " + livello + "\nDipartimento: " + dipartimento);
     }
     public Livello promuovi(){
         switch (livello){

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e69f75e-4fca-4a26-8d78-118b7c6e1273" name="Changes" comment="Week2/Day/Esercizi completati">
+      <change beforePath="$PROJECT_DIR$/src/it/Epicode/week2/day3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/Epicode/week2/day3/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2afoLW5ELuu0WAfs6sjL1UunTNC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Banca.executor": "Run",
+    "Application.ECommerce.executor": "Run",
+    "Application.Esercizio.executor": "Debug",
+    "Application.Esercizio1.executor": "Run",
+    "Application.Esercizio2.executor": "Run",
+    "Application.Esercizio3.executor": "Run",
+    "Application.GestioneDipendenti.executor": "Run",
+    "Application.GestioneParole.executor": "Run",
+    "Application.LettoreMultimediale.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PrimaClasse.executor": "Run",
+    "Application.ProvaArray.executor": "Run",
+    "Application.Rettangolo.executor": "Run",
+    "Application.Sim.executor": "Run",
+    "Application.esercizio1.executor": "Run",
+    "Application.esercizio2.executor": "Run",
+    "Application.esercizio4.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/slf4j-api-2.0.9.jar",
+    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/corso_epicode/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-e1d2075fd9a7-b4911678" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e69f75e-4fca-4a26-8d78-118b7c6e1273" name="Changes" comment="" />
+      <created>1704718943183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704718943183</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1704725543509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704725543509</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1704725645474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704725645474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completamento Metodo Perimetro Rettangolo">
+      <option name="closed" value="true" />
+      <created>1704729583358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704729583358</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Inserimento Metodo Pari e Dispari">
+      <option name="closed" value="true" />
+      <created>1704730398375</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704730398375</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Inserimento Metodo Pari e Dispari">
+      <option name="closed" value="true" />
+      <created>1704731189449</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704731189449</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Esercizio 1">
+      <option name="closed" value="true" />
+      <created>1704798922638</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704798922638</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Esercizio 1hy">
+      <option name="closed" value="true" />
+      <created>1704815780813</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704815780813</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Esercizio 3">
+      <option name="closed" value="true" />
+      <created>1704874367371</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704874367371</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Esercizio Rettangolo">
+      <option name="closed" value="true" />
+      <created>1704895031361</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704895031361</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Esercizio Sim">
+      <option name="closed" value="true" />
+      <created>1704898400956</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704898400956</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Esercizio Ecommerce">
+      <option name="closed" value="true" />
+      <created>1704901191018</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704901191019</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Week1/Day4/Esercizio/Creazione Classe Dipendente">
+      <option name="closed" value="true" />
+      <created>1704984717395</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704984717395</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Week1/Day4/Esercizio/Creazione Classe Dipendente">
+      <option name="closed" value="true" />
+      <created>1704987730546</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704987730546</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Week1/Day5/Progetto Settimanale">
+      <option name="closed" value="true" />
+      <created>1705063219181</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705063219181</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Week1/Day5/Progetto Settimanale">
+      <option name="closed" value="true" />
+      <created>1705074206813</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1705074206813</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Week2/Day1/Esercizio 1 aggiunto">
+      <option name="closed" value="true" />
+      <created>1705329929998</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1705329929998</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Week2/Day1/Esercizio 1 aggiunto">
+      <option name="closed" value="true" />
+      <created>1705333546974</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1705333546974</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Week2/Day/Esercizi completati">
+      <option name="closed" value="true" />
+      <created>1705419447045</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705419447045</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Week2/Day/Esercizi completati">
+      <option name="closed" value="true" />
+      <created>1705502802277</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1705502802277</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Completamento Metodo Perimetro Rettangolo" />
+    <MESSAGE value="Inserimento Metodo Pari e Dispari" />
+    <MESSAGE value="Esercizio 1" />
+    <MESSAGE value="Esercizio 1hy" />
+    <MESSAGE value="Esercizio 3" />
+    <MESSAGE value="Esercizio Rettangolo" />
+    <MESSAGE value="Esercizio Sim" />
+    <MESSAGE value="Esercizio Ecommerce" />
+    <MESSAGE value="Week1/Day4/Esercizio/Creazione Classe Dipendente" />
+    <MESSAGE value="Week1/Day5/Progetto Settimanale" />
+    <MESSAGE value="Week2/Day1/Esercizio 1 aggiunto" />
+    <MESSAGE value="Week2/Day/Esercizi completati" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week2/Day/Esercizi completati" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="it.Epicode.week2.day1.Esercizio3.BancaException" package="it.Epicode.week2.day1.Esercizio3" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="14" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -28,7 +28,7 @@ public class Main {
         customerList.add(new Customer(102, "Bob", 1));
         customerList.add(new Customer(103, "Charlie", 3));
 
-        //Lista Order
+        //Lista Orders
         List<Order> orderList = new ArrayList<>();
         orderList.add(new Order(501, "Shipped", LocalDate.now(), LocalDate.now().plusDays(3), productlist.subList(0, 2), customerList.get(0)));
         orderList.add(new Order(502, "Processing", LocalDate.now(), null, productlist.subList(5, 7), customerList.get(1)));

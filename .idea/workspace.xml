@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e69f75e-4fca-4a26-8d78-118b7c6e1273" name="Changes" comment="Week2/Day/Esercizi completati">
-      <change beforePath="$PROJECT_DIR$/src/it/Epicode/week2/day3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/Epicode/week2/day3/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3e69f75e-4fca-4a26-8d78-118b7c6e1273" name="Changes" comment="Verifica Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +67,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/slf4j-api-2.0.9.jar",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/corso_epicode/corso_epicode.iml",
     "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/corso_epicode/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
@@ -81,6 +79,7 @@
       <set>
         <option value="jdk-21.0.1-openjdk-21.0.1-e1d2075fd9a7-b4911678" />
         <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
       </set>
     </attachedChunks>
   </component>
@@ -262,7 +261,8 @@
     <MESSAGE value="Week1/Day5/Progetto Settimanale" />
     <MESSAGE value="Week2/Day1/Esercizio 1 aggiunto" />
     <MESSAGE value="Week2/Day/Esercizi completati" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week2/Day/Esercizi completati" />
+    <MESSAGE value="Verifica Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Verifica Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

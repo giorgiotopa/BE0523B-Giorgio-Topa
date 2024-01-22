@@ -1,0 +1,9 @@
+select * from public.clienti where nome = 'Mario';
+
+select nome, cognome from public.clienti where anno_di_nascita = '1982';
+
+select count(*) as numero_fatture_iva_20 from public.fatture where iva = '20';
+
+select * from public.prodotti where extract (year from data_attivazione) = '2017';
+
+select * from public.fatture;
